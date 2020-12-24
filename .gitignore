@@ -31,4 +31,7 @@
 *.out
 *.app
 
+# Gameboy files
+*.gb
+
 build/
